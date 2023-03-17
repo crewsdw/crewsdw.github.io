@@ -1,0 +1,24 @@
+I"�<h3 id="benvenuto">Benvenuto!</h3>
+
+<p>Welcome to the research site of Daniel W. Crews!</p>
+
+<p>I’m a research scientist at Zap Energy, Inc. and a recent PhD graduate from the University of Washington’s Computational Plasma Dynamics laboratory.</p>
+
+<p>The purpose of this site is primarily to share my research notes and academic publications with anyone who may be interested.
+You can find the works separated into appropriate sections under the “Research” tab above.
+Happy exploring!</p>
+
+<div class="container">
+  <div class="row">
+    <center>
+<img src="http://localhost:4000/images/banner.jpg" width="100%" /><br />
+A vortex structure in two-dimensional incompressible turbulence
+</center>
+  </div>
+</div>
+<p><br /></p>
+
+<!-- ### About me
+
+I am a research scientist working at Zap Energy, Inc., a fusion energy start-up working on the sheared-flow stabilized Z-pinch plasma reactor concept. -->
+:ET

@@ -1,0 +1,75 @@
+I"§	<style>
+img{
+  border-radius: 10px;
+}
+.col-md-3 {
+  margin-top:10px;
+  margin-bottom:10px;
+  padding:0px;
+  display:block;
+  overflow:hidden;
+  text-align:center;
+  display: table-cell;
+  background: white;
+  border-radius: 20px;
+  height: auto;
+}
+iframe {
+  margin:0;
+  padding:0;
+  width: 175px;
+  display: inline;
+  vertical-align: middle;
+}
+</style>
+
+<h2 id="research">Research</h2>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Dissertation and thesis documents</h4>
+
+    <p><a href="../papers/crews_2022.pdf">Numerical simulation of collisionless kinetic plasma turbulence (PhD Dissertation, 2022)</a><br />
+<a href="../papers/CrewsGeneralExam.pdf">Reduced models for collisionless plasma turbulence (PhD General Exam, 2021)</a><br />
+<a href="../papers/Crews-Thesis-Final.pdf">Development of a collisionless plasma kinetic solver (MS Thesis, 2018)</a></p>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Kinetic theory</h4>
+
+    <p><a href="../papers/superpotentials.pdf">Note on Chandrasekhar and Rosenbluthâ€™s superpotentials (2022)</a></p>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>MHD and fluid theory</h4>
+
+    <p><a href="../papers/eigencurl.pdf">Solenoidal eigenfunctions (2021)</a><br />
+<a href="../papers/elsasser_notes.pdf">Elsasser variables (2021)</a><br />
+<a href="../papers/incompressible_euler.pdf">Incompressible Euler equation (2021)</a></p>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Mathematics</h4>
+    <p><a href="../papers/vector_fields.pdf">Introduction to vector fields, flows, and Lie theory (2023)</a><br />
+<a href="../papers/lie_transform.pdf">Hamiltonian perturbation theory using Lie transformations (2023)</a><br />
+<a href="../papers/wigner.pdf">Discrete spectral analysis with Wigner functions (2021)</a><br />
+<a href="../papers/resonance_theta_function.pdf">Jacobi theta functions from Gaussian-cosecant convolution (2021)</a><br />
+<a href="../papers/laplace.pdf">Simple proof of circle harmonics (very basic) (2020)</a><br />
+<a href="../papers/em_notes_update2.pdf">How the Lorentz force is the infinitesimal generator of Lorentz transformations (2020)</a></p>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Language</h4>
+
+    <p><a href="../papers/sanskrit_project.pdf">Project on the Katha Upanishad (Winter 2020)</a></p>
+  </div>
+</div>
+:ET
